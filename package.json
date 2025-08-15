@@ -4,7 +4,6 @@
     "description": "Discord bot for TosterShop",
     "main": "index.js",
     "scripts": {
-        "preinstall": "rm -rf node_modules",
         "start": "node index.js"
     },
     "dependencies": {
