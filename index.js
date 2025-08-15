@@ -1,6 +1,3 @@
-// === Подключаем dotenv ВСЕГДА в самом начале ===
-require('dotenv').config();
-
 // === Импортируем discord.js ===
 const { Client, GatewayIntentBits, REST, Routes } = require('discord.js');
 
